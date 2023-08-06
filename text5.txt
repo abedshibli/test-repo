@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is just a test
+=======
+this is in newbranch
+>>>>>>> newbranch
